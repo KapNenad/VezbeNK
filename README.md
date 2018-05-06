@@ -1,0 +1,2 @@
+# VezbeNK
+Vežbe by NK
